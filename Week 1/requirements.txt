@@ -1,0 +1,12 @@
+# Machine Learning libraries
+scikit-learn>=1.2.0
+
+# Data manipulation and CSV handling
+pandas>=1.5.0
+
+# Plotting and visualization
+matplotlib>=3.6.0
+
+# Jupyter Notebook environment
+jupyter>=1.0.0
+nbformat>=5.7.0
