@@ -1,7 +1,3 @@
-Here is a complete, beginner-friendly `README.md` file. It walks students through the entire process from scratch—installing Python, choosing an IDE, setting up a virtual environment, installing dependencies, and running the notebook.
-
-You can save this text as `README.md` in the same folder as your notebook and `requirements.txt`.
-
 ***
 
 # Introductory Machine Learning Lab — Setup Guide
