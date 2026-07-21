@@ -1,0 +1,16 @@
+# Deep Learning framework (TensorFlow + Keras)
+tensorflow
+
+# Data manipulation
+pandas
+numpy
+
+# Machine learning utilities (train_test_split)
+scikit-learn
+
+# Plotting and visualization
+matplotlib
+
+# Jupyter Notebook environment
+jupyter
+nbformat
